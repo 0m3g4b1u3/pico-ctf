@@ -1,6 +1,6 @@
 ::######################################################################
-::	PROGRAM:	Obedient Cat
-::	FILENAME:	picoCTF_ObedientCat.py
+::	PROGRAM:	Python Wrangling
+::	FILENAME:	picoCTF_PythonWrangling.bat
 ::	AUTHOR:		Om3g4b1u3
 ::######################################################################
 @echo off
