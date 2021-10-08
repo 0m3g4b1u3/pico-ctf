@@ -1,3 +1,8 @@
+::######################################################################
+::	PROGRAM:	Obedient Cat
+::	FILENAME:	picoCTF_ObedientCat.py
+::	AUTHOR:		Om3g4b1u3
+::######################################################################
 @echo off
 
 set /p pW=<pw_PythonWrangling.txt
