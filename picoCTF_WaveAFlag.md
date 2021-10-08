@@ -2,7 +2,7 @@
 
 Can you invoke help flags for a tool or binary? This program has extraordinarily helpful information...
 
-## Hints:
+### Hints:
 
 1.  This program will only work in the webshell or another Linux computer.
 2.  To get the file accessible in your shell, enter the following in the Terminal prompt: 
@@ -11,12 +11,12 @@ Can you invoke help flags for a tool or binary? This program has extraordinarily
 4.  -h and --help are the most common arguments to give to programs to get more information from them!
 5.  Not every program implements help features like -h and --help.
 
-# Solution(s):
+## Solution(s):
 
-## Using their hints...
+### Using their hints...
 
 
 
-## The Easy Way
+### The Easy Way
 
 $ strings warm | grep picoCTF
