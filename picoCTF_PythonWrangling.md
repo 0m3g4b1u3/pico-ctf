@@ -7,7 +7,7 @@ Python scripts are invoked kind of like programs in the Terminal... Can you run 
 1.  Get the Python script accessible in your shell by entering the following command in the Terminal prompt:<br>`$ wget https://mercury.picoctf.net/static/0bf545252b5120845e3b568b9ad0277e/ende.py`
 2. `$ man python`
 
-## Solution(s):
+## Solution:
 _Get the password._<br>
 `$ cat pw.txt`<br><br>
 The trick for this is knowing the program requires two arguments. The first argument is either "-d" to decrypt or "-e" to encrypt. The second is the filepath of the file to read.<br>
