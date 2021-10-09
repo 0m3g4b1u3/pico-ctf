@@ -21,5 +21,3 @@ def rotN(msg, n, mode):
 	return new_msg
 
 print(rotN(encrypted_flag, 13, "d"))
-
-#picoctf{next_time_i'll_try_2_rounds_of_rot13_afxtzqwr}
