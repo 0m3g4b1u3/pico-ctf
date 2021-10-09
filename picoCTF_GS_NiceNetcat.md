@@ -12,3 +12,8 @@ There is a nice program that you can talk to by using this command in a shell: `
 
 ## Solution:
 
+_Connect to grab the ascii numbers_<br>
+`$ nc mercury.picoctf.net 22342`
+
+_Convert ASCII to string_
+
