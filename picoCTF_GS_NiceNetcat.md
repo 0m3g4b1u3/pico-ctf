@@ -16,4 +16,4 @@ _Connect to grab the ascii numbers_<br>
 `$ nc mercury.picoctf.net 22342`
 
 _Convert ASCII to string_
-
+I used python but their are linux terminal options.
