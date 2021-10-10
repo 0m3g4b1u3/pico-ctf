@@ -12,7 +12,7 @@ Files can always be changed in a secret way. Can you find the flag? cat.jpg
 ## Solution(s):
 
 _Grab the pic_
-``
+`wget https://mercury.picoctf.net/static/c28a959c5605d5f67480d5dd3a77f302/cat.jpg`
 
 Lots to look at here, but this challenge focuses on the License
 _ _
