@@ -21,5 +21,5 @@ _Look at the details_<br>
 `exiftool cat.jpg`<br>
 
 Lots to look at here, but this challenge focuses on the License. Base64 encryption is rather noticeable because it uses all the upper and lower letters along with the numbers and a few symbols.  
-_Decrypt Base64 for flag_
+_Decrypt Base64 for flag_<br>
 `echo your_license_here | base64 -d`
