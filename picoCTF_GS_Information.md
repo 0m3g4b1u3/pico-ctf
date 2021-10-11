@@ -16,7 +16,7 @@ _Grab the pic_<br>
 
 Their are many ways to "Look at the details" of a file. We are going to try and do this challenge entirely in the picoCTF webshell so we need to know what commands are available to us. The `compgen -c` command will show you the list we are looking for. This list should prove helpful for future challenges and tasks on linux machines you are unfamiliar with.<br>
 
-After scoping the list we see they have `exiftool`
+After scoping the list we see they have `exiftool`<br>
 _Look at the details_<br>
 `exiftool cat.jpg`<br>
 
