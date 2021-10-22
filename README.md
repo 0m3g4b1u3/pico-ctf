@@ -11,21 +11,20 @@ THEIR ARE NO PASSWORDS GIVEN FOR ANY CHALLENGES HERE. YOU MUST FOLLOW THE INSTRU
 ### GENERAL SKILLS<br>
 [Obedient Cat](https://github.com/0m3g4b1u3/pico-ctf/blob/c6d5a72ba0a53da65de65ec98841b6a42150bc0d/picoCTF_GS_ObedientCat.py)<br>
 [Python Wrangling](https://github.com/0m3g4b1u3/pico-ctf/blob/ffc42494ddac6bc7f9c9871502700406658f46ae/picoCTF_GS_PythonWrangling.md)<br>
-[Wave a flag](../blob/master/picoCTF_GS_PythonWrangling.md)
-#### Nice netcat...
-#### Static ain't always noise
-#### Tab, Tab, Attack
-#### Magikarp Ground Mission
-#### Let's Warm Up
-#### Warmed Up
-#### 2Warm
-#### what's a net cat?
-#### strings it
-#### Bases
-#### First Grep
-#### Based
-#### plumbing
-#### mus1c
-#### flag_shop
-#### 1_wanna_b3_a _r0ck5tar
+[Wave a flag](https://github.com/0m3g4b1u3/pico-ctf/blob/ffc42494ddac6bc7f9c9871502700406658f46ae/picoCTF_GS_WaveAFlag.md)<br>
+[Nice netcat...]()<br>
+[Static ain't always noise]()<br>
+[Tab, Tab, Attack]()<br>
+[Magikarp Ground Mission]()<br>
+[Let's Warm Up]()<br>
+[Warmed Up]()<br>
+[2Warm]()<br>
+[what's a net cat?]()<br>
+[strings it]()<br>
+[Bases]()<br>
+[First Grep]()<br>
+[Based]()<br>
+[mus1c]()<br>
+[flag_shop]()<br>
+[1_wanna_b3_a _r0ck5tar]()<br>
 
