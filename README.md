@@ -10,7 +10,7 @@ THEIR ARE NO PASSWORDS GIVEN FOR ANY CHALLENGES HERE. YOU MUST FOLLOW THE INSTRU
 
 ### GENERAL SKILLS<br>
 [Obedient Cat](https://github.com/0m3g4b1u3/pico-ctf/blob/7b7be1f19232e4c4de9207f2600e91bfa00147cd/picoCTF_GS_ObedienytCat.py)
-[Python Wrangling](../)
+[Python Wrangling](../picoCTF_GS_ObedienytCat.py)
 #### Wave a flag
 #### Nice netcat...
 #### Static ain't always noise
