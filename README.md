@@ -10,8 +10,8 @@ THEIR ARE NO PASSWORDS GIVEN FOR ANY CHALLENGES HERE. YOU MUST FOLLOW THE INSTRU
 
 ### GENERAL SKILLS<br>
 [Obedient Cat](https://github.com/0m3g4b1u3/pico-ctf/blob/c6d5a72ba0a53da65de65ec98841b6a42150bc0d/picoCTF_GS_ObedientCat.py)<br>
-[Python Wrangling](../picoCTF_GS_ObedientCat.py)<br>
-#### Wave a flag
+[Python Wrangling](https://github.com/0m3g4b1u3/pico-ctf/blob/ffc42494ddac6bc7f9c9871502700406658f46ae/picoCTF_GS_PythonWrangling.md)<br>
+[Wave a flag](../blob/master/picoCTF_GS_PythonWrangling.md)
 #### Nice netcat...
 #### Static ain't always noise
 #### Tab, Tab, Attack
