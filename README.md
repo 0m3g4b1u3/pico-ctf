@@ -9,7 +9,7 @@
 THEIR ARE NO PASSWORDS GIVEN FOR ANY CHALLENGES HERE. YOU MUST FOLLOW THE INSTRUCTIONS AT A MINIMUM. LEARN THE CODE. DO THE WORK.<br>
 
 ### GENERAL SKILLS<br>
-[Obedient Cat](../picoCTF_GS_ObedienytCat.py)
+[Obedient Cat](../blob/7b7be1f19232e4c4de9207f2600e91bfa00147cd/picoCTF_GS_ObedienytCat.py)
 #### Python Wrangling
 #### Wave a flag
 #### Nice netcat...
