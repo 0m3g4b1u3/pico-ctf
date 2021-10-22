@@ -6,4 +6,26 @@
 *All of these scripts assume you have downloaded the appropriate files from PicoCTF and placed in the same directory as the script. Some filenames were changed to reflect the challenge title.*
 
 ### NOTE TO SCRIPT KITTYS<br>
-THEIR ARE NO PASSWORDS GIVEN FOR ANY CHALLENGES HERE. YOU MUST FOLLOW THE INSTRUCTIONS AT A MINIMUM. LEARN THE CODE. DO THE WORK.
+THEIR ARE NO PASSWORDS GIVEN FOR ANY CHALLENGES HERE. YOU MUST FOLLOW THE INSTRUCTIONS AT A MINIMUM. LEARN THE CODE. DO THE WORK.<br>
+
+### GENERAL SKILLS<br>
+#### Obedient Cat
+#### Python Wrangling
+#### Wave a flag
+#### Nice netcat...
+#### Static ain't always noise
+#### Tab, Tab, Attack
+#### Magikarp Ground Mission
+#### Let's Warm Up
+#### Warmed Up
+#### 2Warm
+#### what's a net cat?
+#### strings it
+#### Bases
+#### First Grep
+#### Based
+#### plumbing
+#### mus1c
+#### flag_shop
+#### 1_wanna_b3_a _r0ck5tar
+
