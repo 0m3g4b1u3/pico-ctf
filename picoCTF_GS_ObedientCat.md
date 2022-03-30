@@ -1,6 +1,9 @@
 # GENERAL SKILLS - Obedient Cat<img align="left" src="https://github.com/0m3g4b1u3/hello-world/blob/master/sscLogo200.png" width=36>
-[Challenge Link](https://play.picoctf.org/practice/challenge/147)
+
+**Description** ([Challenge Link](https://play.picoctf.org/practice/challenge/147))<br>
+This file has a flag in plain sight (aka "in-the-clear"). Download flag.
 <br>
+#
 
 **STEP 1:**<br>
 Download File
