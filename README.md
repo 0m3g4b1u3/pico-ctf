@@ -8,7 +8,7 @@
 THEIR ARE NO PASSWORDS GIVEN FOR ANY CHALLENGES HERE. YOU MUST FOLLOW THE INSTRUCTIONS AT A MINIMUM. LEARN THE CODE. DO THE WORK.<br>
 
 ### GENERAL SKILLS<br>
-[Obedient Cat](https://github.com/0m3g4b1u3/pico-ctf/blob/c6d5a72ba0a53da65de65ec98841b6a42150bc0d/picoCTF_GS_ObedientCat.py)<br>
+[Obedient Cat](https://github.com/0m3g4b1u3/pico-ctf/blob/main/picoCTF_GS_ObedientCat.md)<br>
 [Python Wrangling](https://github.com/0m3g4b1u3/pico-ctf/blob/ffc42494ddac6bc7f9c9871502700406658f46ae/picoCTF_GS_PythonWrangling.md)<br>
 [Wave a flag](https://github.com/0m3g4b1u3/pico-ctf/blob/ffc42494ddac6bc7f9c9871502700406658f46ae/picoCTF_GS_WaveAFlag.md)<br>
 [Nice netcat...]()<br>
