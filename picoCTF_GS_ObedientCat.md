@@ -13,5 +13,5 @@ Open webshell
 
 **STEP 4:**<br>
 ``> cat flag.txt`` *prints contents of file to screen*
-
-[Python Solution]()
+<hr><br>
+[Python Solution](https://github.com/0m3g4b1u3/pico-ctf/blob/main/picoCTF_GS_ObedientCat.py)
