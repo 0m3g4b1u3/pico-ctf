@@ -1,23 +1,17 @@
-# GENERAL SKILLS - Obedient Cat
+# GENERAL SKILLS - Obedient Cat<img align="left" src="https://github.com/0m3g4b1u3/hello-world/blob/master/sscLogo200.png" width=36>
 [Challenge Link](https://play.picoctf.org/practice/challenge/147)
-
-
-
-
-
-
-# hello-world: A Trial Run
-<img align="left" src="https://github.com/0m3g4b1u3/hello-world/blob/master/sscLogo200.png" width=36>
-
-Normal text doesn't have anything on the outsides of it. You will also notice that their is word-wrap by default; so really long sentences, like this one, will automatically go to a new-line.
 <br>
 
-<img align="right" src="https://github.com/0m3g4b1u3/hello-world/blob/master/GIRa.jpg" width=200>
+**STEP 1:**<br>
+Download File
 
-**Bold text is enclosed in \*\***
+**STEP 2:**<br>
+Open webshell
 
-*Italicized text is enclosed in \**
+**STEP 3:**<br>
+``> rz`` *imports file to webshell*
 
-URL Link: [Ethical Hacking Site](https://www.omegabluecs.com/eh1WEB/index.html)
+**STEP 4:**<br>
+``> cat flag.txt`` *prints contents of file to screen*
 
-<br>
+[Python Solution]()
