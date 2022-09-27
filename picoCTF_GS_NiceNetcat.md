@@ -17,3 +17,5 @@ _Connect to grab the ascii numbers_<br>
 
 _Convert ASCII to string_
 I used python but their are linux terminal options.
+
+Python [Solution](https://github.com/0m3g4b1u3/pico-ctf/blob/main/picoCTF_GC_NiceNetcat.py)
